@@ -18,5 +18,8 @@
   "homepage": "https://github.com/AriRix1410/jest-simon-game#readme",
   "devDependencies": {
     "jest": "^28.1.2"
+  },
+  "dependencies": {
+    "jest-environment-jsdom": "^28.1.2"
   }
 }
